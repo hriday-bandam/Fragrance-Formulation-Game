@@ -10,6 +10,3 @@ python main.py
 - ingredientdict.py: ingredient catalogue with scent descriptions
 - SUMMERdict.py, WINTERdict.py, DATEdict.py: suitability scores per profile
 
-## Future ideas
-- Weight top, heart, and base notes differently
-- Load blends from a spreadsheet
